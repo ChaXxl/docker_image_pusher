@@ -8,3 +8,4 @@
 
 
 python:3.11-bookworm
+ubuntu:22.04
